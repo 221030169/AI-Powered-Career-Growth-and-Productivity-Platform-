@@ -1,0 +1,19 @@
+# OpenAI API
+openai
+
+# Ollama LLM Python bindings
+ollama
+
+# OCR
+pytesseract
+opencv-python
+Pillow
+
+# Advanced regex support
+regex
+
+# Environment variables
+python-dotenv
+
+# HTTP requests
+requests
