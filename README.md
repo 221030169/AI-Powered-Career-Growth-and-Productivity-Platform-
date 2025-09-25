@@ -138,7 +138,7 @@ This project is licensed under the **MIT License** – see the [LICENSE](LICENSE
 ---
 
 ## 👥 Authors
-- **Your Name** – Priyansh Lunawat (221030169) 
+- **Name** – Priyansh Lunawat (221030169) 
 - **Teammates** – Udit Sharma (221030199) 
                   Naman Mittal  (221030359)  
                   Ashish Agarwal (221030420)
