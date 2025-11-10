@@ -1,15 +1,15 @@
-# 🚀 AI-Powered Career Growth and Productivity Platform 
+# AI-Powered Career Growth and Productivity Platform 
 
 An intelligent platform that helps students and professionals prepare for their careers through **AI-powered resume generation, cover letter creation, interview training, coding exams, and performance analytics**.  
 
 ---
 
-## 📌 Project Description
+## Project Description
 The **AI-Powered Career Growth and Productivity Platform** streamlines the career preparation journey by automating essential tasks and offering personalized insights. It enables users to generate ATS-friendly resumes, craft tailored cover letters, practice interviews, solve coding challenges, and receive actionable feedback via a unified dashboard.
 
 ---
 
-## ✨ Features
+## Features
 - 📄 **Resume Generator** – Builds ATS-optimized resumes from user input.  
 - 🔮 **Job Role Predictor** – Suggests suitable future career roles based on resume data.  
 - ✍️ **Cover Letter Creator** – Generates job-specific cover letters.  
@@ -20,7 +20,7 @@ The **AI-Powered Career Growth and Productivity Platform** streamlines the caree
 
 ---
 
-## 🏗️ System Architecture
+## System Architecture
 ```
 User → [Resume Analyzer | Job Role Predictor | Cover Letter Generator | Interview Simulator | Coding Exam Module] 
     → Performance Analytics 
@@ -29,7 +29,7 @@ User → [Resume Analyzer | Job Role Predictor | Cover Letter Generator | Interv
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 ```
 ├── data/                # Training data or exported CSVs
 ├── docs/                # Documentation and research papers
@@ -45,7 +45,7 @@ User → [Resume Analyzer | Job Role Predictor | Cover Letter Generator | Interv
 
 ---
 
-## 🔗 Collaboration Sheet
+## Collaboration Sheet
 Research Paper Tracker:  
 👉 [Google Sheet Collaboration Link](https://docs.google.com/spreadsheets/d/1D7d73RoPsWiXYDLpLn3yKUmkUo6Zbmsh0cgXwXYguF8/edit?usp=sharing)  
 
@@ -60,7 +60,6 @@ Here's an overview of the technologies used to build this application.
 - Express
 - React
 - Node.js
-- OpenAI API
 - Tailwind
 - Daisy UI
 - Bcrypt
@@ -69,11 +68,10 @@ Here's an overview of the technologies used to build this application.
 - Jest
 - Cypress
 - ESLint
-# OpenAI API
-openai
+
 
 # Ollama LLM Python bindings
-ollama
+ollama llama3.1
 
 # OCR
 pytesseract
@@ -87,7 +85,7 @@ regex
 
 ---
 
-## 🛠️ Installation
+## Installation
 ```bash
 # Clone the repository
 git https://github.com/221030169/AI-Powered-Career-Growth-and-Productivity-Platform-.git
@@ -104,7 +102,7 @@ pip install -r requirements.txt
 
 ---
 
-## 🚀 Usage
+## Usage
 1. Upload your resume/profile to generate ATS-optimized versions.  
 2. Request a tailored cover letter for a given job description.  
 3. Attempt AI-generated coding exams.  
@@ -115,7 +113,7 @@ pip install -r requirements.txt
 
 
 
-## 🤝 Contributing
+## Contributing
 1. Fork the repo and create a branch:  
    ```bash
    git checkout -b feature/your-feature
@@ -132,13 +130,13 @@ pip install -r requirements.txt
 
 ---
 
-## 📜 License
+## License
 This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
 
 ---
 
-## 👥 Authors
-- **Name** – Priyansh Lunawat (221030169) 
-- **Teammates** – Udit Sharma (221030199) 
-                  Naman Mittal  (221030359)  
-                  Ashish Agarwal (221030420)
+## Authors
+1. Priyansh Lunawat (221030169)
+2. Naman Mittal  (221030359)
+3. Udit Sharma (221030199)
+4. Ashish Agarwal (221030420)
