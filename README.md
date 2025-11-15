@@ -40,7 +40,17 @@ User → [Resume Analyzer | Job Role Predictor | Cover Letter Generator | Interv
 │   ├── coding_exam/     # Coding exam system
 │   └── analytics/       # Dashboard & performance tracking
 ├── README.md            # Project overview
-└── requirements.txt     # Dependencies
+├── CV parser            # Resume/Cv extract and generate ai insights
+│   ├── venv/            
+│   ├── config.py/     
+│   ├── llm_parser.py/       
+│   ├── preprocess_cv.py/
+│   ├── regex_parser.py/          
+│   ├── resume_ai_analysis.py/     
+│   └──requirements.txt/       
+│            
+└── requirements.txt     
+
 ```
 
 ---
