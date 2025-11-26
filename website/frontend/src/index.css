@@ -1,0 +1,31 @@
+@font-face {
+  font-family: "Epilogue Regular";
+  src: url("../public/fonts/Epilogue-ExtraBold.ttf");
+}
+
+@font-face {
+  font-family: "DM Sans Regular";
+  src: url("../public/fonts/DMSans-Regular.ttf");
+}
+
+@font-face {
+  font-family: "DM Sans Bold";
+  src: url("../public/fonts/DMSans-Bold.ttf");
+}
+
+@font-face {
+  font-family: "Poppins Bold";
+  src: url("../public/fonts/Poppins-Bold.ttf");
+}
+
+@font-face {
+  font-family: "Poppins Regular";
+  src: url("../public/fonts/Poppins-Regular.ttf");
+}
+
+
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;

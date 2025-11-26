@@ -1,0 +1,77 @@
+a {
+  color: #003060;
+  text-decoration: none;
+}
+
+.nav-link {
+  transition: 0.2s ease;
+}
+
+.nav-link:hover {
+  color: #007cb9;
+}
+
+.hamburger {
+  display: block;
+  cursor: pointer;
+  position: unset;
+  margin-top: 3px;
+  padding: 20px 50px;
+}
+
+.bar {
+  display: block;
+  width: 25px;
+  height: 3px;
+  margin: 5px auto;
+  -webkit-transition: all 0.3s ease-in-out;
+  transition: all 0.3s ease-in-out;
+  background-color: #003060;
+}
+
+.hamburger.active .bar:nth-child(2) {
+  opacity: 0;
+}
+
+.hamburger.active .bar:nth-child(1) {
+  transform: translateY(8px) rotate(45deg);
+}
+
+.hamburger.active .bar:nth-child(3) {
+  transform: translateY(-8px) rotate(-45deg);
+}
+
+.nav-menu {
+  display: none;
+  position: absolute;
+  left: 100%;
+  width: 20%;
+  top: 70px;
+  gap: 0;
+  flex-direction: column;
+  background-color: #fff;
+  width: 100%;
+  text-align: left;
+  transition: all 0.3s ease;
+}
+
+.nav-item {
+  margin: 16px 16px 16px 20px;
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+}
+
+.nav-menu.active {
+  display: block;
+  left: 80%;
+  right: 0;
+  width: 20%;
+  border-radius: 0.8em;
+}
+
+@media (max-width: 768px) {
+  .nav-menu {
+    position: static;
+  }
+}
