@@ -1,0 +1,56 @@
+{
+  "name": "frontend",
+  "version": "0.1.0",
+  "private": true,
+  "proxy": "https://career-companion-0vnx.onrender.com",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.4.0",
+    "@fortawesome/fontawesome-svg-core": "^6.4.0",
+    "@fortawesome/free-solid-svg-icons": "^6.4.0",
+    "@fortawesome/react-fontawesome": "^0.2.0",
+    "@fvilers/disable-react-devtools": "^1.3.0",
+    "@material-tailwind/react": "^1.4.2",
+    "cypress": "^10.7.0",
+    "daisyui": "^2.51.6",
+    "eslint": "^8.23.0",
+    "flowbite": "^1.6.5",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router": "^6.3.0",
+    "react-router-dom": "^6.3.0",
+    "react-scripts": "^5.0.1",
+    "web-vitals": "^2.1.4",
+    "react-icons": "^4.8.0"
+  },
+  "scripts": {
+    "start": "react-app-rewired start",
+    "build": "react-scripts build",
+    "test": "npm run test:unit && npm run test:feature",
+    "test:unit": "cypress run --component",
+    "test:feature": "cypress run",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@cypress/code-coverage": "^3.10.4",
+    "babel-plugin-istanbul": "^6.1.1",
+    "react-app-rewired": "^2.2.1"
+  }
+}
