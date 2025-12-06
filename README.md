@@ -9,6 +9,7 @@ The **AI-Powered Career Growth and Productivity Platform** streamlines the caree
 
 ---
 
+
 ## ✨ Features
 - 📄 **Resume Generator** – Builds ATS-optimized resumes from user input.  
 - 🔮 **Job Role Predictor** – Suggests suitable future career roles based on resume data.  
