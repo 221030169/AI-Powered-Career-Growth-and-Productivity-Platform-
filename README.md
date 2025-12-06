@@ -1,144 +1,156 @@
-# 🚀 AI-Powered Career Growth and Productivity Platform 
+Career Companion is your ultimate job search assistant.
 
-An intelligent platform that helps students and professionals prepare for their careers through **AI-powered resume generation, cover letter creation, interview training, coding exams, and performance analytics**.  
+With us, you can easily track your job applications, manage interviews, get reminders, and receive smart AI-powered help to stay on top of your job hunt.
 
----
+Whether you're a fresher or an experienced professional — Career Companion helps you land your dream job faster.
 
-## 📌 Project Description
-The **AI-Powered Career Growth and Productivity Platform** streamlines the career preparation journey by automating essential tasks and offering personalized insights. It enables users to generate ATS-friendly resumes, craft tailored cover letters, practice interviews, solve coding challenges, and receive actionable feedback via a unified dashboard.
+🚀 Features
 
----
+✔️ Track job applications and update statuses
+✔️ Add interview dates and key company details
+✔️ AI-powered mock technical interviews with feedback
+✔️ Generate custom resumes and cover letters
+✔️ Review & rate companies’ hiring processes
 
-## ✨ Features
-- 📄 **Resume Generator** – Builds ATS-optimized resumes from user input.  
-- 🔮 **Job Role Predictor** – Suggests suitable future career roles based on resume data.  
-- ✍️ **Cover Letter Creator** – Generates job-specific cover letters.  
-- 🎤 **Interview Training** – AI-driven mock interviews with instant feedback.  
-- 💻 **AI Code Exam System** – Dynamic coding questions with automated evaluation.  
-- 📊 **Performance Dashboard** – Tracks progress, suggests career roles, and highlights improvement areas.  
-- 🤝 **Collaboration** – Supports teamwork via GitHub and Google Sheets integration.  
+🛠️ Technologies Used
 
----
+MongoDB
 
-## 🏗️ System Architecture
-```
-User → [Resume Analyzer | Job Role Predictor | Cover Letter Generator | Interview Simulator | Coding Exam Module] 
-    → Performance Analytics 
-    → Outputs (Resume, Cover Letter, Career Roles, Interview Feedback, Coding Score)
-```
+Express
 
----
+React
 
-## 📂 Project Structure
-```
-├── data/                # Training data or exported CSVs
-├── docs/                # Documentation and research papers
-├── src/                 # Source code for modules
-│   ├── resume/          # Resume analyzer & generator
-│   ├── coverletter/     # Cover letter generator
-│   ├── interview/       # Interview simulator
-│   ├── coding_exam/     # Coding exam system
-│   └── analytics/       # Dashboard & performance tracking
-├── README.md            # Project overview
-└── requirements.txt     # Dependencies
-```
+Node.js
 
----
+OpenAI API
 
-## 🔗 Collaboration Sheet
-Research Paper Tracker:  
-👉 [Google Sheet Collaboration Link](https://docs.google.com/spreadsheets/d/1D7d73RoPsWiXYDLpLn3yKUmkUo6Zbmsh0cgXwXYguF8/edit?usp=sharing)  
+Tailwind CSS
 
----
+Daisy UI
 
----
-## Technologies
+Bcrypt
 
-Here's an overview of the technologies used to build this application.
+JWT Authentication
 
-- MongoDB
-- Express
-- React
-- Node.js
-- OpenAI API
-- Tailwind
-- Daisy UI
-- Bcrypt
-- JWT
-- Nodemon
-- Jest
-- Cypress
-- ESLint
-# OpenAI API
-openai
+Nodemon
 
-# Ollama LLM Python bindings
-ollama
+Jest
 
-# OCR
-pytesseract
-opencv-python
-Pillow
+Cypress
 
-# Advanced regex support
-regex
+ESLint
 
----
+⚙️ Quickstart Guide
+📦 Installation
 
----
+Install npm
 
-## 🛠️ Installation
-```bash
-# Clone the repository
-git https://github.com/221030169/AI-Powered-Career-Growth-and-Productivity-Platform-.git
-cd AI-Powered-Career-Growth-and-Productivity-Platform
-
-# (Optional) Create a virtual environment
-python -m venv venv
-source venv/bin/activate   # Mac/Linux
-venv\Scripts\activate      # Windows
-
-# Install dependencies
-pip install -r requirements.txt
-```
-
----
-
-## 🚀 Usage
-1. Upload your resume/profile to generate ATS-optimized versions.  
-2. Request a tailored cover letter for a given job description.  
-3. Attempt AI-generated coding exams.  
-4. Practice interviews with instant AI feedback.  
-5. View your performance analytics and suggested career roles.  
-
----
+npm install npm@latest -g
 
 
+Clone this repo
 
-## 🤝 Contributing
-1. Fork the repo and create a branch:  
-   ```bash
-   git checkout -b feature/your-feature
-   ```
-2. Commit changes:  
-   ```bash
-   git commit -m "Add feature"
-   ```
-3. Push the branch:  
-   ```bash
-   git push origin feature/your-feature
-   ```
-4. Open a Pull Request.  
+git clone https://github.com/francescoGuglielmi/career_companion.git
 
----
 
-## 📜 License
-This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
+Install dependencies
 
----
+cd api
+npm install
+cd ../frontend
+npm install
 
-## 👥 Authors
-- **Name** – Priyansh Lunawat (221030169) 
-- **Teammates** – Udit Sharma (221030199) 
-                  Naman Mittal  (221030359)  
-                  Ashish Agarwal (221030420)
+
+Install MongoDB (macOS)
+
+brew tap mongodb/brew
+brew install mongodb-community@5.0
+
+
+Start MongoDB
+
+brew services start mongodb-community@5.0
+
+▶️ Running the Application
+Start Backend (Server)
+cd api
+JWT_SECRET=SUPER_SECRET npm start
+
+Start Frontend (React)
+cd frontend
+npm start
+
+
+➡️ Open in browser: http://localhost:3000/
+
+🧪 Testing
+🔙 Backend (API)
+
+Start server in test mode
+
+cd api
+JWT_SECRET=SUPER_SECRET npm run start:test
+
+
+Run backend tests
+
+cd api
+JWT_SECRET=SUPER_SECRET npm run test
+
+🎨 Frontend (React)
+
+Start server in test mode
+
+cd api
+JWT_SECRET=SUPER_SECRET npm run start:test
+
+
+Start frontend
+
+cd frontend
+JWT_SECRET=SUPER_SECRET npm start
+
+
+Run frontend tests
+
+cd frontend
+JWT_SECRET=SUPER_SECRET npm run test
+
+📺 Demo Screens
+
+(Screenshots unchanged — replace with your own if preferred)
+
+Create account, sign in/out, and manage user sessions
+
+Add & track job applications
+
+AI interview preparation
+
+Tailored resume builder
+
+AI-generated cover letters
+
+Company reviews & ratings
+
+🎥 Live Demo
+
+Watch Career Companion in action:
+📌 https://youtu.be/0VTqKqXxe3Y?t=1528
+
+👥 Contributors
+
+Created by:
+
+Priyansh Lunawat — LinkedIn
+ • GitHub
+
+Naman Mittal — LinkedIn
+ • GitHub
+
+Udit Sharma — LinkedIn
+ • GitHub
+
+Ashish Agarwal — LinkedIn
+ • GitHub
+
+With thanks to Mr. Aayush Sharma for support in planning and execution stages.
