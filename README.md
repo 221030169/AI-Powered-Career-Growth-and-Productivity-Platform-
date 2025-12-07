@@ -389,7 +389,7 @@ npx cypress open
 ## 🔗 Collaboration & Resources
 
 - **Google Sheets** (Tracking): [Link](https://docs.google.com/spreadsheets/d/1D7d73RoPsWiXYDLpLn3yKUmkUo6Zbmsh0cgXwXYguF8/edit?usp=sharing)
-- **Live Demo**: [YouTube](https://youtu.be/0VTqKqXxe3Y?t=1528)
+
 
 ---
 
@@ -472,16 +472,12 @@ This project is licensed under the **CC BY-NC-SA 4.0 License** – see the [LICE
 ## 👥 Authors & Contributors
 
 ### Original Team
-- **Priyansh Lunawat** (221030169) – Lead Developer
+- **Priyansh Lunawat** (221030169) – AI/ML & Lead Developer
 - **Udit Sharma** (221030199) – AI/ML Engineer
 - **Naman Mittal** (221030359) – Full-Stack Developer
 - **Ashish Agarwal** (221030420) – DevOps & Testing
 
-### Career Companion Original Contributors
-- Sarah Davies [LinkedIn](https://www.linkedin.com/in/sarahdavies1/) [GitHub](https://github.com/sarahdavies186)
-- Konrad Duński [LinkedIn](https://www.linkedin.com/in/konraddunski/) [GitHub](https://github.com/k-dun)
-- Francesco Guglielmi [LinkedIn](https://www.linkedin.com/in/francesco-guglielmi-4a238714b/) [GitHub](https://github.com/francescoGuglielmi)
-- Adnan Mann [LinkedIn](https://www.linkedin.com/in/adnanmann/) [GitHub](https://github.com/AMANN23)
+
 
 ---
 
