@@ -1,0 +1,109 @@
+PRIYANSH LUNAWAT
++91 8302945778
+ priyanshlunawat2207@gmail.com
+🔗 https://www.linkedin.com/in/priyansh-lunawat-6a68b624b/
+SUMMARY
+
+Results-driven engineer with strong skills in Python, machine learning, and full-stack development, experienced in building scalable AI solutions
+and deploying applications using modern frameworks. Passionate about solving real-world problems through technology and continuous
+learning.
+EDUCATION
+Jaypee University of Information Technology
+Aug 2022 – Aug 2026
+B.Tech – Computer Science & Engineering
+CGPA: 8.71
+Gyan Vihar School (XII)
+Jul 2022
+Percentage: 85 / 100
+Gyan Vihar School (X)
+Apr 2020
+Percentage: 75 / 100
+
+
+EXPERIENCE/ WORK EXPERIENCE
+Growth Grids Pvt. Ltd. – India
+Python Developer Intern – CV Parser Project Jun 2025 – Jul 2025
+
+Developed an advanced CV parser using chunking techniques with custom regular expressions,as a RAG approach to increasing
+extraction accuracy across diverse resume formats
+
+Integrated LLama-based large language model (LLM) to semantically label and classify text chunks, improving section detection in
+unstructured resumes by 60%
+
+Designed a hybrid pipeline that combined rule-based and AI-driven logic for extracting sections like
+Education, Experience, and Skills
+
+Automated resume parsing from .pdf, .docx, and scanned .jpg formats using OCR (Tesseract) and
+PyMuPDF, reducing manual effort by 70%
+
+Validation & Error Handling: Ensuring extracted data is correct through structured testing methods.
+
+Named Entity Recognition (NER): Implementing spaCy or transformers to detect names, skill s, experience, and education.
+
+Regex & Pattern Matching: Using custom regex to extract structured sections (e.g., "Name:", "Education:", "Experience:").
+LEADERSHIP/PROJECTS
+Crop Guardian – Team Size: 4
+Jan 2025 – May 2025
+Key Skills: Python, Deep Learning, Image Processing,Spring Boot, Machine Learning, Artificial Neural Networks, Convolutional Neural Network.
+
+Multilingual crop disease detection app with 95%+ accuracy using MobileNetV2 with custom head and transfer learning.
+
+State specific Crop disease Detection.
+
+Deployed via Streamlit with real-time image upload and prediction confidence.
+Potato Disease Classification – Individual Project
+Sep 2024 – Sep 2024
+Key Skills: Python Machine Learning Deep Learning Image Processing
+
+Achieved 95%+ accuracy in classifying potato leaf diseases using CNN and transfer learning.
+
+Deployed via Streamlit with real-time image upload and prediction confidence.
+Heart Disease Detection – Individual Project
+Nov 2024 – Nov 2024
+Key Skills: Machine Learning, EDA, Data Visualization, Data Mining
+
+Predicted heart disease with 89% accuracy using logistic regression.
+
+Applied feature selection, EDA, and visualization techniques.
+Face Recognition Attendance System
+Oct 2023 – Nov 2023
+Key Skills: Python Computer Vision
+
+Automated attendance via face recognition using Haar Cascade with 90%+ accuracy.
+
+Enabled contactless tracking for classroom environments.
+
+Leadership Roles:
+
+Led ML model building team at ACM's OSO event.
+
+Leader of ACM (JUIT), organized 5+ technical events.
+
+Senior NSS Member.
+
+SKILLS
+Technical Skills:
+Python, C, C++, HTML, TensorFlow, Scikit-learn, OpenCV, Streamlit, spaCy, LangChain, Machine Learning,
+Deep Learning, Data Science, Neural Network, Computer Vision, OCR, Retrieval-Augmented Generation (RAG)
+Management Skills:
+Project Management, Team Leadership, Communication, Debugging
+Languages:
+Fluent in English, Hindi
+CERTIFICATIONS & TRAININGS
+
+Microsoft – ML Training (via Unstop) Mar 2025 Applied CNN,
+ANN to real-world datasets.
+
+IIT Madras Pravartak – ML Training Jun 2024 – Jul 2024
+Scored 91%, Top Performer; covered Python, EDA, Regression, Clustering.
+PERSONAL INFORMATION
+Address: G-11, Guru Kripa Apartment, Nandan Vihar, Jagatpura, Jaipur, RJ – 302017
+Phone: +91 8302945778
+Email: priyanshlunawat2207@gmail.com 221030169@juitsolan.in
+LinkedIn: https://www.linkedin.com/in/priyansh-lunawat-6a68b624b/
+
+ACHIEVEMENTS
+
+Top 12 Finalist – Smart India Hackathon 2024.
+3rd Position – Techno Wizard Competition.
+Organized multiple tech/social events

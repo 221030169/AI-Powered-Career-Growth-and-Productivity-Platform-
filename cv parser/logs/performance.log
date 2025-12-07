@@ -1,0 +1,31 @@
+2025-11-10 14:19:42,471 - performance_logger - INFO - Function 'extract_text_from_pdf' took 0.0694 seconds to execute.
+2025-11-10 14:19:42,474 - performance_logger - INFO - Function 'preprocess_cvs' took 0.0740 seconds to execute.
+2025-11-10 14:19:42,474 - performance_logger - INFO - Processing: Priyansh_Lunawat__.txt
+2025-11-10 14:20:46,914 - performance_logger - INFO - Function '_call_ollama' took 64.4379 seconds to execute.
+2025-11-10 14:20:46,915 - performance_logger - INFO - Function 'extract_name_with_llm' took 64.4381 seconds to execute.
+2025-11-10 14:20:46,915 - performance_logger - INFO -     Name (LLM): Priyansh Lunawat
+2025-11-10 14:20:46,915 - performance_logger - INFO -     Email: priyanshlunawat2207@gmail.com
+2025-11-10 14:20:46,916 - performance_logger - INFO -     Phone: +918302945778
+2025-11-10 14:20:46,916 - performance_logger - INFO -     URLs: https://www.linkedin.com/in/priyansh-lunawat-6a68b624b/
+2025-11-10 14:23:03,539 - performance_logger - INFO - Function '_call_ollama' took 136.6236 seconds to execute.
+2025-11-10 14:23:03,540 - performance_logger - INFO - Function 'extract_skills_with_llm' took 136.6243 seconds to execute.
+2025-11-10 14:23:03,540 - performance_logger - INFO -     Skills (LLM via RAG): 19 entries
+2025-11-10 14:24:51,087 - performance_logger - INFO - Function '_call_ollama' took 107.5473 seconds to execute.
+2025-11-10 14:24:51,088 - performance_logger - INFO - Function 'extract_experience_with_llm' took 107.5476 seconds to execute.
+2025-11-10 14:24:51,088 - performance_logger - INFO -     Experience (LLM via RAG): 1 entries
+2025-11-10 14:27:18,082 - performance_logger - INFO - Function '_call_ollama' took 146.9944 seconds to execute.
+2025-11-10 14:27:18,083 - performance_logger - INFO - Function 'extract_projects_with_llm' took 146.9948 seconds to execute.
+2025-11-10 14:27:18,083 - performance_logger - INFO -     Projects (LLM via RAG): 4 entries
+2025-11-10 14:28:08,066 - performance_logger - INFO - Function '_call_ollama' took 49.9821 seconds to execute.
+2025-11-10 14:28:08,066 - performance_logger - INFO - Function 'extract_certifications_with_llm' took 49.9823 seconds to execute.
+2025-11-10 14:28:08,066 - performance_logger - INFO -     Certifications (LLM): 2 entries
+2025-11-10 14:29:59,737 - performance_logger - INFO - Function '_call_ollama' took 111.6701 seconds to execute.
+2025-11-10 14:29:59,737 - performance_logger - INFO - Function 'extract_education_with_llm' took 111.6704 seconds to execute.
+2025-11-10 14:29:59,737 - performance_logger - INFO -     Education (LLM): 2 entries
+2025-11-10 14:32:53,213 - performance_logger - INFO - Function '_call_ollama' took 173.4756 seconds to execute.
+2025-11-10 14:32:53,213 - performance_logger - INFO - Function 'extract_languages_with_llm' took 173.4759 seconds to execute.
+2025-11-10 14:32:53,213 - performance_logger - INFO -     Languages (LLM via RAG): 1 entries
+2025-11-10 14:32:53,213 - performance_logger - INFO -     Experience (After Post-processing): 1 entries (removed 0 education-like entries)
+2025-11-10 14:32:53,213 - performance_logger - INFO - ----------------------------------------
+2025-11-10 14:32:53,213 - performance_logger - INFO - Function 'parse_cv_with_pipeline' took 790.7392 seconds to execute.
+2025-11-10 14:34:03,707 - performance_logger - INFO - Function '_call_ollama' took 70.4877 seconds to execute.
