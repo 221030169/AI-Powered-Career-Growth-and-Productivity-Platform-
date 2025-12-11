@@ -119,10 +119,10 @@ export default function LandingPage() {
                   </a>
                   <div className="">
                     <h3 className="text-xl font-bold tracking-tight text-navy dark:text-cream px-2">
-                      Alex Mitchell
+                      Priyansh Lunawat
                     </h3>
-                    <span className="text-blue dark:text-gray-200 px-2">Full-Stack Web Developer</span>
-                    <p className="mt-3 mb-4 font-light text-lblue dark:text-gray-300 px-2">Alex loves hiking, technology exploration and building creative solutions.</p>
+                    <span className="text-blue dark:text-gray-200 px-2">AI/ML developer</span>
+                    <p className="mt-3 mb-4 font-light text-lblue dark:text-gray-300 px-2">Priyansh loves hiking, technology exploration and building creative solutions.</p>
                     <ul className="flex space-x-4 sm:mt-0 px-2">
                       <li>
                         <a href="#" className="text-navy hover:text-gray-900 dark:hover:text-white">
@@ -149,10 +149,10 @@ export default function LandingPage() {
                   </a>
                   <div className="">
                     <h3 className="text-xl font-bold tracking-tight text-navy dark:text-cream px-2">
-                      Marcus Chen
+                      Naman Mittal
                     </h3>
-                    <span className="text-blue dark:text-gray-200 px-2">Back-end Engineer</span>
-                    <p className="mt-3 mb-4 font-light text-lblue dark:text-gray-300 px-2">Marcus is passionate about scalable systems. He loves coffee and debating the best programming paradigms.</p>
+                    <span className="text-blue dark:text-gray-200 px-2">Front-end developer</span>
+                    <p className="mt-3 mb-4 font-light text-lblue dark:text-gray-300 px-2">Naman is passionate about scalable systems. He loves coffee and debating the best programming paradigms.</p>
                     <ul className="flex space-x-4 sm:mt-0 px-2">
                       <li>
                         <a href="#" className="text-navy hover:text-gray-900 dark:hover:text-white">
@@ -179,10 +179,10 @@ export default function LandingPage() {
                   </a>
                   <div className="">
                     <h3 className="text-xl font-bold tracking-tight text-navy dark:text-cream px-2">
-                      Rachel Thompson
+                      Udit Sharma
                     </h3>
                     <span className="text-blue dark:text-gray-200 px-2">Full-Stack Web Developer</span>
-                    <p className="mt-3 mb-4 font-light text-lblue dark:text-gray-300 px-2">Rachel loves problem-solving and mentoring. She's an enthusiastic advocate for clean code.</p>
+                    <p className="mt-3 mb-4 font-light text-lblue dark:text-gray-300 px-2">Udit loves problem-solving and mentoring. She's an enthusiastic advocate for clean code.</p>
                     <ul className="flex space-x-4 sm:mt-0 px-2">
                       <li>
                         <a href="#" className="text-navy hover:text-gray-900 dark:hover:text-white">
@@ -209,10 +209,10 @@ export default function LandingPage() {
                   </a>
                   <div className="">
                     <h3 className="text-xl font-bold tracking-tight text-navy dark:text-cream px-2">
-                      Jordan Blake
+                      Ashish Agarwal
                     </h3>
-                    <span className="text-blue dark:text-gray-200 px-2">Front-end Engineer</span>
-                    <p className="mt-3 mb-4 font-light text-lblue dark:text-gray-300 px-2">Jordan is a UI/UX enthusiast with a passion for responsive design. Creative and fun-loving.</p>
+                    <span className="text-blue dark:text-gray-200 px-2">Full-Stack developer</span>
+                    <p className="mt-3 mb-4 font-light text-lblue dark:text-gray-300 px-2">Ashish is a web enthusiast with a passion for responsive design. Creative and fun-loving.</p>
                     <ul className="flex space-x-4 sm:mt-0 px-2">
                       <li>
                         <a href="#" className="text-navy hover:text-gray-900 dark:hover:text-white">
@@ -239,10 +239,10 @@ export default function LandingPage() {
                   </a>
                   <div className="">
                     <h3 className="text-xl font-bold tracking-tight text-navy dark:text-cream px-2">
-                      Emma Rodriguez
+                      Mr. Aayush Sharma
                     </h3>
-                    <span className="text-blue dark:text-gray-200 px-2">Full-Stack Web Developer</span>
-                    <p className="mt-3 mb-4 font-light text-lblue dark:text-gray-300 px-2">Emma is a strategic thinker who loves planning sprints and ensuring project success. Collaborative and driven.</p>
+                    <span className="text-blue dark:text-gray-200 px-2">Computer master</span>
+                    <p className="mt-3 mb-4 font-light text-lblue dark:text-gray-300 px-2">Mr. Aayush is a strategic thinker who loves planning sprints and ensuring project success. Collaborative and driven.</p>
                     <ul className="flex space-x-4 sm:mt-0 px-2">
                       <li>
                         <a href="#" className="text-navy hover:text-gray-900 dark:hover:text-white">
@@ -338,7 +338,7 @@ export default function LandingPage() {
         <footer className="bg-cream dark:bg-navy px-4 md:p-6 font-dm-sans-regular">
           <div className="w-full bg-cream dark:bg-navy pt-16 pb-10 h-100 ">
             <h4 className="text-xl text-center text-blue dark:text-cream">
-              Made with ❤️ and ☕️ by Sarah, Francesco, Adnan, Konrad & Kassandra!
+              Made with ❤️ and ☕️ by Priyansh, Naman, Udit & Ashish!
             </h4>
           </div>
         </footer>
