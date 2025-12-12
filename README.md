@@ -476,7 +476,7 @@ This project is licensed under the **CC BY-NC-SA 4.0 License** – see the [LICE
 - **Priyansh Lunawat** (221030169) – AI/ML & Lead Developer
 - **Udit Sharma** (221030199) – AI/ML Engineer
 - **Naman Mittal** (221030359) – Full-Stack Developer
-- **Ashish Agarwal** (221030420) – DevOps & Testing
+- **Ashish Agarwal** (221030420) – Full-Stack Developer
 
 
 
@@ -504,10 +504,6 @@ This project is licensed under the **CC BY-NC-SA 4.0 License** – see the [LICE
 - Frontend default: 3000 (CRA uses this)
 - Change ports if conflicts occur
 
-### Gemini API Issues
-- Verify `GEMINI_API_KEY` is set correctly
-- Check Google AI Studio: https://ai.google.dev/
-- Ensure API is enabled in Google Cloud Console
 
 ---
 
