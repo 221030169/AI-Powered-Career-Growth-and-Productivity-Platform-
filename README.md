@@ -166,7 +166,6 @@ AI-Powered-Career-Growth-and-Productivity-Platform/
 ├── package.json                         # Node.js Dependencies
 └── LICENSE
 ```
-
 ```
 ```
 
