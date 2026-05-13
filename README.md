@@ -4,6 +4,11 @@ An intelligent, full-stack platform that helps students and professionals prepar
 
 ---
 ![ca](https://github.com/user-attachments/assets/eb7959ef-dfae-40a0-adf4-4dc916162478)
+<img width="1682" height="925" alt="MP1" src="https://github.com/user-attachments/assets/f056f951-0154-4a63-bbbe-35fc81aac743" />
+<img width="1637" height="904" alt="MP2" src="https://github.com/user-attachments/assets/2838b765-fb16-4c4a-b538-a29b9244433d" />
+<img width="1915" height="871" alt="MP3" src="https://github.com/user-attachments/assets/d7b8d5ea-08f8-4938-bb96-f6fbb804be2a" />
+
+
 
 ## 📌 Project Description
 
