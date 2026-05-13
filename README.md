@@ -78,6 +78,9 @@ This unified platform streamlines the entire job search journey by automating do
 ## 📂 Project Structure
 
 ```
+```md
+## 🗂️ Project Structure
+
 AI-Powered-Career-Growth-and-Productivity-Platform/
 ├── Career Companion/                    # Main MERN Application
 │   ├── api/                             # Express.js Backend
@@ -120,6 +123,32 @@ AI-Powered-Career-Growth-and-Productivity-Platform/
 │   ├── package.json
 │   ├── README.md
 │   └── build.sh
+│
+├── ai-interview-taker/                 # Real-time AI Interview System (Groq-powered)
+│   ├── backend/
+│   │   ├── server.js
+│   │   ├── test-feedback.js
+│   │   ├── test-models.js
+│   │   ├── package.json
+│   │   ├── package-lock.json
+│   │   └── .env.example
+│   │
+│   ├── frontend/
+│   │   ├── src/
+│   │   │   ├── components/
+│   │   │   │   ├── Feedback.jsx
+│   │   │   │   ├── InterviewChat.jsx
+│   │   │   │   └── ResumeUpload.jsx
+│   │   │   ├── App.jsx
+│   │   │   ├── main.jsx
+│   │   │   └── index.css
+│   │   ├── index.html
+│   │   ├── package.json
+│   │   ├── package-lock.json
+│   │   └── vite.config.js
+│   │
+│   └── README.md
+│
 ├── cv parser/                           # Python ML Module
 │   ├── config.py                        # Configuration
 │   ├── llm_parser.py                    # Ollama LLM Integration
@@ -131,10 +160,13 @@ AI-Powered-Career-Growth-and-Productivity-Platform/
 │   ├── cv_files/                        # Input CV Files
 │   ├── extracted_text/                  # Extracted Text
 │   └── parsed_results/                  # Parsing Output
+│
 ├── README.md                            # This File
 ├── requirements.txt                     # Python Dependencies
 ├── package.json                         # Node.js Dependencies
 └── LICENSE
+```
+
 ```
 
 ---
