@@ -160,6 +160,7 @@ AI-Powered-Career-Growth-and-Productivity-Platform/
 - **Groq** – Alternative LLM option
 - **Google Cloud Vision** – OCR for document processing
 - **PDF Processing** – PyMuPDF, pdf2image, pdfminer.six, pypdf
+- **Multer** - Middleware for handling file uploads, primarily used for receiving PDF resumes.
 
 ### Testing
 - **Jest** 27.5.1 – JavaScript Unit Testing
