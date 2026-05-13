@@ -168,15 +168,13 @@ AI-Powered-Career-Growth-and-Productivity-Platform/
 ```
 
 ```
-
----
+```
 
 ### Step 1: Clone the Repository
 ```bash
 git clone https://github.com/221030169/AI-Powered-Career-Growth-and-Productivity-Platform-.git
 cd AI-Powered-Career-Growth-and-Productivity-Platform
 ```
-
 ### Step 2: Setup Environment Variables
 
 Create a `.env` file in the root and `Career Companion/api/` directories:
