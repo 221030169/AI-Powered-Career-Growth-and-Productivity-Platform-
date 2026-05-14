@@ -4,6 +4,11 @@ An intelligent, full-stack platform that helps students and professionals prepar
 
 ---
 ![ca](https://github.com/user-attachments/assets/eb7959ef-dfae-40a0-adf4-4dc916162478)
+<img width="1682" height="925" alt="MP1" src="https://github.com/user-attachments/assets/f056f951-0154-4a63-bbbe-35fc81aac743" />
+<img width="1637" height="904" alt="MP2" src="https://github.com/user-attachments/assets/2838b765-fb16-4c4a-b538-a29b9244433d" />
+<img width="1915" height="871" alt="MP3" src="https://github.com/user-attachments/assets/d7b8d5ea-08f8-4938-bb96-f6fbb804be2a" />
+
+
 
 ## 📌 Project Description
 
@@ -73,6 +78,9 @@ This unified platform streamlines the entire job search journey by automating do
 ## 📂 Project Structure
 
 ```
+```md
+## 🗂️ Project Structure
+
 AI-Powered-Career-Growth-and-Productivity-Platform/
 ├── Career Companion/                    # Main MERN Application
 │   ├── api/                             # Express.js Backend
@@ -115,6 +123,32 @@ AI-Powered-Career-Growth-and-Productivity-Platform/
 │   ├── package.json
 │   ├── README.md
 │   └── build.sh
+│
+├── ai-interview-taker/                 # Real-time AI Interview System (Groq-powered)
+│   ├── backend/
+│   │   ├── server.js
+│   │   ├── test-feedback.js
+│   │   ├── test-models.js
+│   │   ├── package.json
+│   │   ├── package-lock.json
+│   │   └── .env.example
+│   │
+│   ├── frontend/
+│   │   ├── src/
+│   │   │   ├── components/
+│   │   │   │   ├── Feedback.jsx
+│   │   │   │   ├── InterviewChat.jsx
+│   │   │   │   └── ResumeUpload.jsx
+│   │   │   ├── App.jsx
+│   │   │   ├── main.jsx
+│   │   │   └── index.css
+│   │   ├── index.html
+│   │   ├── package.json
+│   │   ├── package-lock.json
+│   │   └── vite.config.js
+│   │
+│   └── README.md
+│
 ├── cv parser/                           # Python ML Module
 │   ├── config.py                        # Configuration
 │   ├── llm_parser.py                    # Ollama LLM Integration
@@ -126,79 +160,20 @@ AI-Powered-Career-Growth-and-Productivity-Platform/
 │   ├── cv_files/                        # Input CV Files
 │   ├── extracted_text/                  # Extracted Text
 │   └── parsed_results/                  # Parsing Output
+│
 ├── README.md                            # This File
 ├── requirements.txt                     # Python Dependencies
 ├── package.json                         # Node.js Dependencies
 └── LICENSE
 ```
-
----
-
-## 🔧 Technologies Used
-
-### Frontend
-- **React** 18.2.0 – UI Library
-- **React Router** 6.3.0 – Client-side routing
-- **Tailwind CSS** 3.x – Utility-first CSS framework
-- **Daisy UI** – Component library
-- **Material Tailwind React** – Advanced UI components
-- **React Icons** – Icon library
-
-### Backend
-- **Node.js** ≥18.1.0 – JavaScript Runtime
-- **Express.js** 4.18.2 – Web Framework
-- **MongoDB** 3.4.1 & Mongoose 5.8.11 – Database & ODM
-- **JWT (jsonwebtoken)** 9.0.0 – Authentication
-- **Bcrypt** 5.1.0 – Password Hashing
-- **Axios** 1.4.0 – HTTP Client
-- **CORS** 2.8.5 – Cross-Origin Resource Sharing
-- **Supertest** 6.2.4 – HTTP Assertion Library
-
-### AI/ML & External APIs
-- **Ollama** – Local LLM inference (llama3.2, mxbai-embed-large)
-- **Google Gemini API** – AI-powered content generation (interview questions, cover letters)
-- **Groq** – Alternative LLM option
-- **Google Cloud Vision** – OCR for document processing
-- **PDF Processing** – PyMuPDF, pdf2image, pdfminer.six, pypdf
-
-### Testing
-- **Jest** 27.5.1 – JavaScript Unit Testing
-- **Cypress** 10.7.0 – E2E Testing
-- **Supertest** 6.2.4 – API Testing
-
-### Python & Data Processing
-- **OpenCV** – Image processing for CV analysis
-- **Pytesseract** – OCR Engine
-- **Pillow** – Image manipulation
-- **Pandas** – Data processing
-- **NumPy** – Numerical computing
-- **NLTK** – Natural Language Processing
-- **Regex** – Advanced pattern matching
-- **python-dotenv** – Environment variable management
-
-### Deployment & DevOps
-- **Nodemon** – Development auto-reload
-- **ESLint** – Code linting
-- **Morgan** – HTTP request logging
-- **Debug** – Debugging utility
-
----
-
-## 🛠️ Installation & Setup
-
-### Prerequisites
-- **Node.js** ≥18.1.0
-- **npm** (comes with Node.js)
-- **MongoDB** 5.0+ (local or cloud instance like MongoDB Atlas)
-- **Python** 3.8+
-- **Ollama** (for CV Parser AI features) – [Download](https://ollama.com)
+```
+```
 
 ### Step 1: Clone the Repository
 ```bash
 git clone https://github.com/221030169/AI-Powered-Career-Growth-and-Productivity-Platform-.git
 cd AI-Powered-Career-Growth-and-Productivity-Platform
 ```
-
 ### Step 2: Setup Environment Variables
 
 Create a `.env` file in the root and `Career Companion/api/` directories:
